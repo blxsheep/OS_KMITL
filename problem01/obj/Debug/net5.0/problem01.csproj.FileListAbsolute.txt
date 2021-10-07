@@ -1,0 +1,16 @@
+D:\Documents\KMITL\OS\problem01\obj\Debug\net5.0\problem01.csproj.AssemblyReference.cache
+D:\Documents\KMITL\OS\problem01\obj\Debug\net5.0\problem01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\KMITL\OS\problem01\obj\Debug\net5.0\problem01.AssemblyInfoInputs.cache
+D:\Documents\KMITL\OS\problem01\obj\Debug\net5.0\problem01.AssemblyInfo.cs
+D:\Documents\KMITL\OS\problem01\obj\Debug\net5.0\problem01.csproj.CoreCompileInputs.cache
+D:\Documents\KMITL\OS\problem01\bin\Debug\net5.0\problem01.exe
+D:\Documents\KMITL\OS\problem01\bin\Debug\net5.0\problem01.deps.json
+D:\Documents\KMITL\OS\problem01\bin\Debug\net5.0\problem01.runtimeconfig.json
+D:\Documents\KMITL\OS\problem01\bin\Debug\net5.0\problem01.runtimeconfig.dev.json
+D:\Documents\KMITL\OS\problem01\bin\Debug\net5.0\problem01.dll
+D:\Documents\KMITL\OS\problem01\bin\Debug\net5.0\ref\problem01.dll
+D:\Documents\KMITL\OS\problem01\bin\Debug\net5.0\problem01.pdb
+D:\Documents\KMITL\OS\problem01\obj\Debug\net5.0\problem01.dll
+D:\Documents\KMITL\OS\problem01\obj\Debug\net5.0\ref\problem01.dll
+D:\Documents\KMITL\OS\problem01\obj\Debug\net5.0\problem01.pdb
+D:\Documents\KMITL\OS\problem01\obj\Debug\net5.0\problem01.genruntimeconfig.cache
